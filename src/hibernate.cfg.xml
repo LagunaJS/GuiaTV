@@ -21,10 +21,10 @@
     root
     </property>       
 
-	<mapping class = "mx.itson.pou.datos.entidades.Canal"/>  
-	<mapping class = "mx.itson.pou.datos.entidades.Programa"/>
-	<mapping class = "mx.itson.pou.datos.entidades.Horario"/>       
-	<mapping class = "mx.itson.pou.datos.entidades.Categoria"/>     
+	<mapping class = "mx.itson.guiatv.entidades.Canal"/>  
+	<mapping class = "mx.itson.guiatv.entidades.Programa"/>
+	<mapping class = "mx.itson.guiatv.entidades.Horario"/>       
+	<mapping class = "mx.itson.guiatv.entidades.Categoria"/>     
 	
 
   </session-factory>

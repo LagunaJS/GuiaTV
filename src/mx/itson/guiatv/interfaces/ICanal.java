@@ -39,7 +39,7 @@ public interface ICanal {
 	 * Elimina un canal
 	 * @param recibe un id de tipo @int
 	 */
-	public void delete(int id);
+	public void delete(Canal canal);
 	
 	/**
 	 * Actualiza la informacion de un canal existente

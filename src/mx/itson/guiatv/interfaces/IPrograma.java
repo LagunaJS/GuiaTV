@@ -39,7 +39,7 @@ public interface IPrograma {
 	 * Elimina un programa
 	 * @param recibe un id de tipo @int
 	 */
-	public void delete(int id);
+	public void delete(Programa programa);
 	
 	/**
 	 * Actualiza la informacion de un programa existente

@@ -39,7 +39,7 @@ public interface IHorario {
 	 * Elimina un horario
 	 * @param recibe un id de tipo @int
 	 */
-	public void delete(int id);
+	public void delete(Horario horario);
 	
 	/**
 	 * Actualiza la informacion de un horario existente

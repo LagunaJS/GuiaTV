@@ -35,9 +35,9 @@ public interface ICategoria {
 	
 	/**
 	 * Elimina una categoria
-	 * @param recibe un id de tipo @int
+	 * @param recibe un categoria de tipo @Categoria
 	 */
-	public void delete(int id);
+	public void delete(Categoria categoria);
 	
 	/**
 	 * Actualiza la informacion de una categoria existente
